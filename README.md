@@ -1,2 +1,2 @@
 # simpleCprograms
-simple programs in C
+Just some simple C programs I wrote
